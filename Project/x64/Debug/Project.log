@@ -1,0 +1,23 @@
+﻿  BuildAutoTest.cpp
+  IEntity.cpp
+  main.cpp
+  TBuildings.cpp
+  TBuildingsPrototype.cpp
+D:\StarniGames\Project\Project\TBuildingsPrototype.cpp(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TDebug.cpp
+  TMagic.cpp
+  TMap.cpp
+  TMilitary.cpp
+  TMilitaryPrototype.cpp
+  TModel.cpp
+  TNeitral.cpp
+  TObject.cpp
+  TPlayer.cpp
+  TStartEntityCreator.cpp
+  TTestBuff.cpp
+  TTestMap.cpp
+  TUnit.cpp
+  TWorld.cpp
+  TXTest.cpp
+  Generating Code...
+  Project.vcxproj -> D:\StarniGames\Project\x64\Debug\Project.exe
